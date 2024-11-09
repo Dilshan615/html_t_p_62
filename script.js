@@ -1,14 +1,14 @@
 
-const n = document.getElementById("input");
+const inputDisplay = document.getElementById("input");
 
 function button(input) {
-    n.value += input
+    inputDisplay.value += input;
 }
 
 function inputClear() {
-    n.value = "";
+    inputDisplay.value = "";
 }
 
 function calculate() {
-    n.value = eval(n.value)
+    inputDisplay.value = eval(inputDisplay.value);
 }
