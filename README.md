@@ -6,7 +6,7 @@
 <div>
     <h1 align="center">The final look</h1>
     <div align="center">
-        <img src="Calculator.png">
+        <img src="C.png">
     </div>
 </div>
 <br />
