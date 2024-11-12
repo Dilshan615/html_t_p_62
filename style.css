@@ -49,6 +49,7 @@ button {
 
 .buttonE {
     background-color: #0300bf;
+    width: 96%;
 }
 
 .buttonCE {
@@ -59,8 +60,4 @@ P {
     text-align: center;
     margin: 10px;
     color: #fff;
-}
-
-.x5 {
-    margin: 15px;
 }
